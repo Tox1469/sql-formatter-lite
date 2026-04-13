@@ -1,3 +1,10 @@
+[![CI](https://img.shields.io/github/actions/workflow/status/Tox1469/sql-formatter-lite/ci.yml?style=flat-square&label=ci)](https://github.com/Tox1469/sql-formatter-lite/actions)
+[![License](https://img.shields.io/github/license/Tox1469/sql-formatter-lite?style=flat-square)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/Tox1469/sql-formatter-lite?style=flat-square)](https://github.com/Tox1469/sql-formatter-lite/releases)
+[![Stars](https://img.shields.io/github/stars/Tox1469/sql-formatter-lite?style=flat-square)](https://github.com/Tox1469/sql-formatter-lite/stargazers)
+
+---
+
 # sql-formatter-lite
 
 Formatador de queries SQL com indentacao.
