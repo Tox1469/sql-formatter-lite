@@ -1,0 +1,26 @@
+{
+  "name": "sql-formatter-lite",
+  "version": "1.0.0",
+  "description": "Formatador de queries SQL com indentacao.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "sql",
+    "formatter",
+    "pretty",
+    "database"
+  ],
+  "author": "Tox",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/node": "^20.0.0"
+  }
+}
